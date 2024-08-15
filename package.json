@@ -1,0 +1,16 @@
+{
+  "name": "create-deal",
+  "version": "1.0.0",
+  "main": "script.js",
+  "default": "index.html",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  },
+  "scripts": {
+    "start": " parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "Yusufali",
+  "license": "ISC",
+  "description": ""
+}
